@@ -1,0 +1,15 @@
+[appserver]
+103.250.10.47
+
+[gateway]
+103.117.57.242
+
+[paydia]
+103.193.177.60
+
+[upgrade]
+103.52.114.246
+
+[all:vars]
+ansible_user=ditoihkam
+ansible_ssh_private_key_file=/home/ditoihkams/.ssh/id_rsa
