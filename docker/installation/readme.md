@@ -80,14 +80,18 @@ gunakan command dibawah untuk mengecek perbedaan sebelum dan sesudah. Saya sudah
 ```
 docker version
 ```
-
+.
+.
+.
 # Sumber 
 ## Docker Install
 https://docs.docker.com/engine/install/ubuntu/
 
 ## Post Installation
 https://docs.docker.com/engine/install/linux-postinstall/
-
+.
+.
+.
 # Tambahan : Ansible
 
 Silahkan copy script dibawah dan generate menggunakan ansible
